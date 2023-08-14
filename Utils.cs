@@ -9,7 +9,7 @@ using FlaUI.UIA3;
 using System;
 using System.Diagnostics;
 
-namespace VulcanTest {
+namespace VulcanAutomation {
    #region class Utils ----------------------------------------------------------------------------
    public static class Utils {
       #region Methods -----------------------------------------------
