@@ -1,0 +1,1 @@
+xcopy /e /y Res bin\Debug
