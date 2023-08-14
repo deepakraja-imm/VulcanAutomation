@@ -13,7 +13,7 @@ using System.Linq;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-namespace VulcanTest {
+namespace VulcanAutomation {
    #region class Program --------------------------------------------------------------------------
    class Program {
       [DllImport ("user32.dll")]

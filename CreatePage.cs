@@ -5,12 +5,12 @@
 // CreatePage.cs
 // ---------------------------------------------------------------------------------------
 using Flit;
-using static VulcanTest.Utils;
+using static VulcanAutomation.Utils;
 using System.Threading;
 
 
 
-namespace VulcanTest {
+namespace VulcanAutomation {
    [TestFixture (2, "Vulcan tests", Module = "Create")]
    #region class CreatePage -----------------------------------------------------------------------
    public class CreatePage {
